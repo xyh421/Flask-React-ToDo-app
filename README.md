@@ -29,14 +29,14 @@ A popular and productive technology stack today is a combination of React/Redux 
 ### Install Back-End Requirements
 
 ```sh
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 ```
  
 ### Install Front-End Requirements
 
 ```sh
-$ cd static
-$ npm install
+cd static
+npm install
 ```
 
 ### Install Database
@@ -49,14 +49,14 @@ $ npm install
 ### Run Back-End
 
 ```sh
-$ python manage.py runserver
+python manage.py runserver
 ```
 
 ### Run Front-End
 
 ```sh
-$ cd static
-$ npm start
+cd static
+npm start
 ```
 
 ### Run
