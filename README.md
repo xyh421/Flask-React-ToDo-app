@@ -1,4 +1,5 @@
 # Time Managment Assistant #
+![mermaid-2025422 154815](https://github.com/user-attachments/assets/e20e27f0-1422-4ac2-a681-6fd1050154ef)
 
 To-Do application based on Python/Flask Backend JWT and a Javascript/React/Redux Front-End with Material UI.
 
